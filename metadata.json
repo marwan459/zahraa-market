@@ -1,0 +1,6 @@
+{
+  "name": "سوبر ماركت الزهراء",
+  "description": "سوبر ماركت الزهراء - تطبيق تسوق وطلب وتوصيل منتجات السوبر ماركت مع سلة ذكية ومزامنة فورية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
